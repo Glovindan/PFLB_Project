@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>UC05_Remove</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="UC05_Remove.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="UC05_Remove.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="host.dat" Filter="2" />
+    <FileEntry Name="user.dat" Filter="2" />
+    <FileEntry Name="combined_UC05_Remove.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="mdrv7CO.171.log" Filter="1" />
+    <FileEntry Name="mdrvbb5.349.log" Filter="1" />
+    <FileEntry Name="mdrvfMT.81.log" Filter="1" />
+    <FileEntry Name="mdrvw3q.383.log" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="UC05_Remove.prm.bak" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

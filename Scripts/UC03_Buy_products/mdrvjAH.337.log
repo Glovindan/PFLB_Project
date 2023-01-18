@@ -1,0 +1,15 @@
+Start auto log messages stack - Iteration 7.	[MsgId: MMSG-10545]
+Action.c(552): Notify: Transaction "UC03_T06_product_purchase" ended with a "Pass" status (Duration: 68,4348 Think Time: 67,0042).	[MsgId: MMSG-16872]
+Action.c(553): Notify: Transaction "Product_purchase" ended with a "Pass" status (Duration: 68,4349 Think Time: 67,0042).	[MsgId: MMSG-16872]
+Action.c(554): Notify: Transaction "Logout" started.	[MsgId: MMSG-16999]
+Action.c(556): Notify: Transaction "UC03_T07_Logout" started.	[MsgId: MMSG-16999]
+Action.c(558): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+Action.c(558): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+Action.c(561): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+Action.c(561): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+Action.c(564): lr_think_time: 29,00 seconds.	[MsgId: MMSG-15948]
+Action.c(566): web_custom_request("AccountLogoutRequest") started  	[MsgId: MMSG-26355]
+Action.c(566): Error -27792: Failed to connect to server "lt-dev.pflb.ru:8080": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

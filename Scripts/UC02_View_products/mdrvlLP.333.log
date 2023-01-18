@@ -1,0 +1,16 @@
+Start auto log messages stack - Iteration 34.	[MsgId: MMSG-10545]
+Action.c(241): Notify: Transaction "Login" ended with a "Pass" status (Duration: 34,7325 Think Time: 34,0114 Wasted Time: 0,0000).	[MsgId: MMSG-16870]
+Action.c(244): lr_think_time: 27,00 seconds.	[MsgId: MMSG-15948]
+Action.c(246): Notify: Transaction "UC02_T02_category_selection" started.	[MsgId: MMSG-16999]
+Action.c(248): web_reg_save_param_json started  	[MsgId: MMSG-26355]
+Action.c(248): Registering web_reg_save_param_json was successful  	[MsgId: MMSG-26390]
+Action.c(256): web_url("products_2") started  	[MsgId: MMSG-26355]
+Action.c(256): web_url("products_2") was successful, 9646 body bytes, 240 header bytes, 20 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(269): Notify: Transaction "UC02_T02_category_selection" ended with a "Pass" status (Duration: 0,8973 Wasted Time: 0,0004).	[MsgId: MMSG-16871]
+Action.c(271): lr_think_time: 26,00 seconds.	[MsgId: MMSG-15948]
+Action.c(273): Notify: Transaction "UC02_T03_product_selection" started.	[MsgId: MMSG-16999]
+Action.c(275): web_url("all_data") started  	[MsgId: MMSG-26355]
+Action.c(275): Error -27787: Server "lt-dev.pflb.ru" has shut down the connection prematurely  	[MsgId: MERR-27787]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

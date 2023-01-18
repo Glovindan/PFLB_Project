@@ -1,0 +1,14 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(73): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+Action.c(76): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+Action.c(76): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+Action.c(79): web_custom_request("GetAccountConfigurationRequest") started  	[MsgId: MMSG-26355]
+Action.c(79): web_custom_request("GetAccountConfigurationRequest") was successful, 823 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+Action.c(92): web_reg_save_param_json started  	[MsgId: MMSG-26355]
+Action.c(92): Registering web_reg_save_param_json was successful  	[MsgId: MMSG-26390]
+Action.c(99): web_url("categories") started  	[MsgId: MMSG-26355]
+Action.c(99): Error -27760: Request "https://advantageonlineshopping.com/catalog/api/v1/categories" failed  	[MsgId: MERR-27760]
+Action.c(99): Error -35060: No matches were found for the specified query: "$..categoryId"  	[MsgId: MERR-35060]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
