@@ -183,7 +183,7 @@ Action()
 	
 		lr_think_time(15);
 		lr_start_transaction("Cart_open");
-			lr_start_transaction("UC05_T02_Cart_open);
+			lr_start_transaction("UC05_T02_Cart_open");
 				web_url("shoppingCart.html", 
 					"URL={host}/app/views/shoppingCart.html", 
 					"TargetFrame=", 
