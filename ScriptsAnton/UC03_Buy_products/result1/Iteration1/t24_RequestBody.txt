@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"asdasda","addressLine2":"","city":"asdasdasd","country":"um","po"
+"stalCode":"asdasddasd","state":"asasdasd"},"secustomerName":"asdasd asdasdas","secustomerPhone"
+"":"","senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"917FA6296FA2B7329"
+"51DD3E72488EE5A"}"

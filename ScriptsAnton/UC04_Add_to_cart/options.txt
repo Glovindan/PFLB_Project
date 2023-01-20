@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\PFLB_Project\ScriptsAnton\UC04_Add_to_cart
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\pflb_project\scriptsanton\uc04_add_to_cart\\logfile.log
+d:\pflb_project\scriptsanton\uc04_add_to_cart\\combined_UC04_Add_to_cart.c
+d:\pflb_project\scriptsanton\uc04_add_to_cart\\pre_cci.c

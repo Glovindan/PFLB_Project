@@ -1,0 +1,13 @@
+POST /order/api/v1/shippingcost/ HTTP/1.1
+Authorization: Basic R2xvdmluZGFuOkdsb3ZpbmRhbjEyMw==
+Content-Type: application/json;charset=utf-8
+Cache-Control: no-cache
+Referer: http://lt-dev.pflb.ru:8080/
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: lt-dev.pflb.ru:8080
+Cookie: JSESSIONID=917FA6296FA2B732951DD3E72488EE5A
+Content-Length: 299
+

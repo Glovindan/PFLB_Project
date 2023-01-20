@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\PFLB_Project\ScriptsAnton\UC03_Buy_products
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\pflb_project\scriptsanton\uc03_buy_products\\logfile.log
+d:\pflb_project\scriptsanton\uc03_buy_products\\combined_UC03_Buy_products.c
+d:\pflb_project\scriptsanton\uc03_buy_products\\pre_cci.c

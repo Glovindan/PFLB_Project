@@ -1,0 +1,11 @@
+GET /order/api/v1/carts/209440360 HTTP/1.1
+Authorization: Basic R2xvdmluZGFuOkdsb3ZpbmRhbjEyMw==
+Referer: http://lt-dev.pflb.ru:8080/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: lt-dev.pflb.ru:8080
+Cookie: JSESSIONID=9DA692B9B85069E0B72697BA400D499C
+

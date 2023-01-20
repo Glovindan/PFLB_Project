@@ -1,0 +1,74 @@
+[General]
+Type=Multi
+DefaultCfg=default.cfg
+ParameterFile=UC03_Buy_products.prm
+GlobalParameterFile=
+NewFunctionHeader=1
+RunType=cci
+ActionLogicExt=action_logic
+LastActiveAction=Action
+MajorVersion=2021
+MinorVersion=0
+ActiveTypes=QTWeb
+GenerateTypes=QTWeb
+AdditionalTypes=QTWeb
+DevelopTool=Vugen
+LastModifyVer=2021.0.0.0
+DFERebrandFlag=Done
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+LastCodeGenerationVer=
+DisableRegenerate=0
+Encoding=
+Description=
+ScriptLocale=ru-RU
+[Actions]
+vuser_init=vuser_init.c
+Action=Action.c
+vuser_end=vuser_end.c
+[RunLogicFiles]
+Default Profile=default.usp
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[Modified Actions]
+vuser_init=0
+Action=1
+vuser_end=0
+[Recorded Actions]
+vuser_init=0
+Action=0
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Interpreters]
+vuser_init=cci
+Action=cci
+vuser_end=cci
+[TransactionsOrder]
+Order="UC03_Buy_products__*delimiter*__Login__*delimiter*__UC03_TR01_Login__*delimiter*__UC03_TR02_Category_select__*delimiter*__Product_select__*delimiter*__UC03_TR03_Product_select__*delimiter*__Cart_add__*delimiter*__UC03_TR04_Cart_add__*delimiter*__Cart_buy__*delimiter*__UC03_TR06_Cart_buy__*delimiter*__Logout__*delimiter*__UC03_TR07_Exit__*delimiter*__UC03_TR05_Checkout"
+[StateManagement]
+LastReplayStatus=1
+[ActiveReplay]
+LastReplayedRunName=result1
+ActiveRunName=result1
+[Transactions]
+UC03_Buy_products=
+Login=
+UC03_TR01_Login=
+UC03_TR02_Category_select=
+Product_select=
+UC03_TR03_Product_select=
+Cart_add=
+UC03_TR04_Cart_add=
+Cart_buy=
+UC03_TR06_Cart_buy=
+Logout=
+UC03_TR07_Exit=
+UC03_TR05_Checkout=

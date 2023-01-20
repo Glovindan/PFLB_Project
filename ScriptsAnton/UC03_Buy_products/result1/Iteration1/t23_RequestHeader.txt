@@ -1,0 +1,14 @@
+POST /accountservice/ws/GetAccountByIdNewRequest HTTP/1.1
+Authorization: Basic R2xvdmluZGFuOkdsb3ZpbmRhbjEyMw==
+Content-Type: text/xml; charset=UTF-8
+Cache-Control: no-cache
+Referer: http://lt-dev.pflb.ru:8080/
+SOAPAction: com.advantage.online.store.accountserviceGetAccountByIdNewRequest
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: lt-dev.pflb.ru:8080
+Content-Length: 446
+

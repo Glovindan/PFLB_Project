@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\PFLB_Project\ScriptsAnton\UC05_Remove
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\pflb_project\scriptsanton\uc05_remove\\logfile.log
+d:\pflb_project\scriptsanton\uc05_remove\\combined_UC05_Remove.c
+d:\pflb_project\scriptsanton\uc05_remove\\pre_cci.c

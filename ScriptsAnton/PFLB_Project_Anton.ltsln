@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0-trunk
+Project("2A012D7E-93AC-4AB9-91BE-5BA6EB0285DD") = "UC01_Login", "UC01_Login\UC01_Login.usr", "2A012D7E-93AC-4AB9-91BE-5BA6EB0285DD"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFBGTEJfUHJvamVjdFxTY3JpcHRzQW50b25cVUMwMV9Mb2dpblxVQzAxX0xvZ2luLnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT5VQzAxX0xvZ2luLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjMtMDEtMjBUMjE6MDM6NTAuNTEzNjYwMiswMzowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+AA__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("4BDA97D5-66AC-439B-8B21-B17E0F3F84B7") = "UC02_View_products", "UC02_View_products\UC02_View_products.usr", "4BDA97D5-66AC-439B-8B21-B17E0F3F84B7"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFBGTEJfUHJvamVjdFxTY3JpcHRzQW50b25cVUMwMl9WaWV3X3Byb2R1Y3RzXFVDMDJfVmlld19wcm9kdWN0cy51c3I8L0xvYWREYXRhPg0KICA8RmlsZXM+DQogICAgPEZpbGU+VUMwMl9WaWV3X3Byb2R1Y3RzLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjMtMDEtMjBUMjE6MDQ6MDYuNTM5NzU3NiswMzowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("5DB27E5A-CD97-416D-B28B-49A3D0BA4F28") = "UC03_Buy_products", "UC03_Buy_products\UC03_Buy_products.usr", "5DB27E5A-CD97-416D-B28B-49A3D0BA4F28"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFBGTEJfUHJvamVjdFxTY3JpcHRzQW50b25cVUMwM19CdXlfcHJvZHVjdHNcVUMwM19CdXlfcHJvZHVjdHMudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPlVDMDNfQnV5X3Byb2R1Y3RzLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjMtMDEtMjBUMjE6MDQ6MjIuMDA5MjgxOCswMzowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("BC98C0DB-93F1-4491-A541-3C13249C1315") = "UC04_Add_to_cart", "UC04_Add_to_cart\UC04_Add_to_cart.usr", "BC98C0DB-93F1-4491-A541-3C13249C1315"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFBGTEJfUHJvamVjdFxTY3JpcHRzQW50b25cVUMwNF9BZGRfdG9fY2FydFxVQzA0X0FkZF90b19jYXJ0LnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT5VQzA0X0FkZF90b19jYXJ0LnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjMtMDEtMjBUMjE6MDQ6MzguNjYzODI2OSswMzowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("9D6F81D2-DC2A-46A0-A466-3BA635948868") = "UC05_Remove", "UC05_Remove\UC05_Remove.usr", "9D6F81D2-DC2A-46A0-A466-3BA635948868"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFBGTEJfUHJvamVjdFxTY3JpcHRzQW50b25cVUMwNV9SZW1vdmVcVUMwNV9SZW1vdmUudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPlVDMDVfUmVtb3ZlLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjMtMDEtMjBUMjE6MDQ6NDguNDk4ODIwMSswMzowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		2A012D7E-93AC-4AB9-91BE-5BA6EB0285DD.Debug|Any CPU.Build.0 = Debug|Any CPU
+		2A012D7E-93AC-4AB9-91BE-5BA6EB0285DD.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		2A012D7E-93AC-4AB9-91BE-5BA6EB0285DD.Release|Any CPU.Build.0 = Release|Any CPU
+		2A012D7E-93AC-4AB9-91BE-5BA6EB0285DD.Release|Any CPU.ActiveCfg = Release|Any CPU
+		4BDA97D5-66AC-439B-8B21-B17E0F3F84B7.Debug|Any CPU.Build.0 = Debug|Any CPU
+		4BDA97D5-66AC-439B-8B21-B17E0F3F84B7.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		4BDA97D5-66AC-439B-8B21-B17E0F3F84B7.Release|Any CPU.Build.0 = Release|Any CPU
+		4BDA97D5-66AC-439B-8B21-B17E0F3F84B7.Release|Any CPU.ActiveCfg = Release|Any CPU
+		5DB27E5A-CD97-416D-B28B-49A3D0BA4F28.Debug|Any CPU.Build.0 = Debug|Any CPU
+		5DB27E5A-CD97-416D-B28B-49A3D0BA4F28.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		5DB27E5A-CD97-416D-B28B-49A3D0BA4F28.Release|Any CPU.Build.0 = Release|Any CPU
+		5DB27E5A-CD97-416D-B28B-49A3D0BA4F28.Release|Any CPU.ActiveCfg = Release|Any CPU
+		BC98C0DB-93F1-4491-A541-3C13249C1315.Debug|Any CPU.Build.0 = Debug|Any CPU
+		BC98C0DB-93F1-4491-A541-3C13249C1315.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		BC98C0DB-93F1-4491-A541-3C13249C1315.Release|Any CPU.Build.0 = Release|Any CPU
+		BC98C0DB-93F1-4491-A541-3C13249C1315.Release|Any CPU.ActiveCfg = Release|Any CPU
+		9D6F81D2-DC2A-46A0-A466-3BA635948868.Debug|Any CPU.Build.0 = Debug|Any CPU
+		9D6F81D2-DC2A-46A0-A466-3BA635948868.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		9D6F81D2-DC2A-46A0-A466-3BA635948868.Release|Any CPU.Build.0 = Release|Any CPU
+		9D6F81D2-DC2A-46A0-A466-3BA635948868.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
