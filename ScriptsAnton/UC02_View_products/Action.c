@@ -127,17 +127,17 @@ Action()
 			"TargetFrame=", 
 			"Resource=0", 
 			"RecContentType=application/json", 
-			"Referer=https://advantageonlineshopping.com/", 
+			"Referer={host}/", 
 			"Snapshot=t6.inf", 
 			"Mode=HTML", 
 			LAST);
 	
 		web_url("home-page.html", 
-			"URL=https://advantageonlineshopping.com/app/views/home-page.html", 
+			"URL={host}", 
 			"TargetFrame=", 
 			"Resource=0", 
 			"RecContentType=text/html", 
-			"Referer=https://advantageonlineshopping.com/", 
+			"Referer={host}", 
 			"Snapshot=t7.inf", 
 			"Mode=HTML", 
 			LAST);
@@ -166,12 +166,12 @@ Action()
 					LAST);
 			
 				web_custom_request("AccountLoginRequest", 
-					"URL=https://advantageonlineshopping.com/accountservice/ws/AccountLoginRequest", 
+					"URL={host}/accountservice/ws/AccountLoginRequest", 
 					"Method=POST", 
 					"TargetFrame=", 
 					"Resource=0", 
 					"RecContentType=text/xml", 
-					"Referer=https://advantageonlineshopping.com/", 
+					"Referer={host}/", 
 					"Snapshot=t8.inf", 
 					"Mode=HTML", 
 					"EncType=text/xml; charset=UTF-8", 
@@ -184,11 +184,11 @@ Action()
 					"Basic {token}");
 			
 				web_url("384472445", 
-					"URL=https://advantageonlineshopping.com/order/api/v1/carts/{userId}", 
+					"URL={host}/order/api/v1/carts/{userId}", 
 					"TargetFrame=", 
 					"Resource=0", 
 					"RecContentType=application/json", 
-					"Referer=https://advantageonlineshopping.com/", 
+					"Referer={host}/", 
 					"Snapshot=t9.inf", 
 					"Mode=HTML", 
 					LAST);
@@ -209,11 +209,11 @@ Action()
 				LAST);
 			
 			web_url("category_rand/products", 
-				"URL=https://advantageonlineshopping.com/catalog/api/v1/categories/{category_rand}/products", 
+				"URL={host}/catalog/api/v1/categories/{category_rand}/products", 
 				"TargetFrame=", 
 				"Resource=0", 
 				"RecContentType=application/json", 
-				"Referer=https://advantageonlineshopping.com/", 
+				"Referer={host}/", 
 				"Snapshot=t10.inf", 
 				"Mode=HTML", 
 				LAST);
@@ -221,21 +221,21 @@ Action()
 			lr_save_string(lr_paramarr_random("category_products_all"), "category_products_rand");
 			
 			web_url("attributes", 
-				"URL=https://advantageonlineshopping.com/catalog/api/v1/categories/attributes", 
+				"URL={host}/catalog/api/v1/categories/attributes", 
 				"TargetFrame=", 
 				"Resource=0", 
 				"RecContentType=application/json", 
-				"Referer=https://advantageonlineshopping.com/", 
+				"Referer={host}/", 
 				"Snapshot=t11.inf", 
 				"Mode=HTML", 
 				LAST);
 		
 			web_url("category-page.html", 
-				"URL=https://advantageonlineshopping.com/app/views/category-page.html", 
+				"URL={host}/app/views/category-page.html", 
 				"TargetFrame=", 
 				"Resource=0", 
 				"RecContentType=text/html", 
-				"Referer=https://advantageonlineshopping.com/", 
+				"Referer={host}/", 
 				"Snapshot=t12.inf", 
 				"Mode=HTML", 
 				LAST);
@@ -247,41 +247,41 @@ Action()
 		lr_start_transaction("Product_select");
 			lr_start_transaction("UC02_TR03_Product_select");
 				web_url("category_products_rand", 
-					"URL=https://advantageonlineshopping.com/catalog/api/v1/products/{category_products_rand}", 
+					"URL={host}/catalog/api/v1/products/{category_products_rand}", 
 					"TargetFrame=", 
 					"Resource=0", 
 					"RecContentType=application/json", 
-					"Referer=https://advantageonlineshopping.com/", 
+					"Referer={host}/", 
 					"Snapshot=t13.inf", 
 					"Mode=HTML", 
 					LAST);
 			
 				web_url("products_2", 
-					"URL=https://advantageonlineshopping.com/catalog/api/v1/categories/3/products", 
+					"URL={host}/catalog/api/v1/categories/3/products", 
 					"TargetFrame=", 
 					"Resource=0", 
 					"RecContentType=application/json", 
-					"Referer=https://advantageonlineshopping.com/", 
+					"Referer={host}/", 
 					"Snapshot=t14.inf", 
 					"Mode=HTML", 
 					LAST);
 			
 				web_url("all_data", 
-					"URL=https://advantageonlineshopping.com/catalog/api/v1/categories/all_data", 
+					"URL={host}/catalog/api/v1/categories/all_data", 
 					"TargetFrame=", 
 					"Resource=0", 
 					"RecContentType=application/json", 
-					"Referer=https://advantageonlineshopping.com/", 
+					"Referer={host}/", 
 					"Snapshot=t15.inf", 
 					"Mode=HTML", 
 					LAST);
 			
 				web_url("product-page.html", 
-					"URL=https://advantageonlineshopping.com/app/views/product-page.html", 
+					"URL={host}/app/views/product-page.html", 
 					"TargetFrame=", 
 					"Resource=0", 
 					"RecContentType=text/html", 
-					"Referer=https://advantageonlineshopping.com/", 
+					"Referer={host}/", 
 					"Snapshot=t16.inf", 
 					"Mode=HTML", 
 					LAST);
@@ -297,12 +297,12 @@ Action()
 					"XMLHttpRequest");
 			
 				web_custom_request("AccountLogoutRequest", 
-					"URL=http://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest", 
+					"URL={host}/accountservice/ws/AccountLogoutRequest", 
 					"Method=POST", 
 					"TargetFrame=", 
 					"Resource=0", 
 					"RecContentType=text/xml", 
-					"Referer=http://www.advantageonlineshopping.com/", 
+					"Referer={host}/", 
 					"Snapshot=t17.inf", 
 					"Mode=HTML", 
 					"EncType=text/xml; charset=UTF-8", 

@@ -1,0 +1,52 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP69",
+                "stepName": "Url: advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1674246407252
+            },
+            {
+                "stepId": "STEP70",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1674246407421
+            },
+            {
+                "stepId": "STEP71",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1674246407682
+            },
+            {
+                "stepId": "STEP72",
+                "stepName": "Url: categories",
+                "infFile": "t5.inf",
+                "time": 1674246407977
+            },
+            {
+                "stepId": "STEP73",
+                "stepName": "Url: search",
+                "infFile": "t6.inf",
+                "time": 1674246408312
+            },
+            {
+                "stepId": "STEP74",
+                "stepName": "Url: popularProducts.json",
+                "infFile": "t7.inf",
+                "time": 1674246408463
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC04_Add_to_cart",
+                "rawStartTime": 1674246404998,
+                "rawEndTime": 1674246408477,
+                "thinkTime": 0.0,
+                "wastedTime": 0.6958513259887695
+            }
+        ]
+    }
+]

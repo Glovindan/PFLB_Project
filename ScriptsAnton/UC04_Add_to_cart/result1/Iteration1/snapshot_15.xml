@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="15">
-  <HTTPTask id="61" hostname="lt-dev.pflb.ru:8080" path="/app/views/product-page.html" url="http://lt-dev.pflb.ru:8080/app/views/product-page.html" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="8270" connectionId="2220" origin="Primary" encodingType="ANSI" startDateTime="2023-01-20T21:18:29.697+03:00" startTime="14601" endTime="14684" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
+  <HTTPTask id="61" hostname="lt-dev.pflb.ru:8080" path="/app/views/product-page.html" url="http://lt-dev.pflb.ru:8080/app/views/product-page.html" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="10929" connectionId="2112" origin="Primary" encodingType="ANSI" startDateTime="2023-01-20T23:25:56.921+03:00" startTime="14187" endTime="14276" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Authorization" index="0">
@@ -107,7 +107,7 @@
         <HTTPHeaderEntity name="Expires" index="4">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAxODoxODoyNyBHTVQ=</ActualData>
+              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -131,7 +131,7 @@
         <HTTPHeaderEntity name="Date" index="7">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAxODoxODoyNyBHTVQ=</ActualData>
+              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -139,7 +139,7 @@
         <HTTPAllHeaders>
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjg4MDUtMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTANCkV4cGlyZXM6IEZyaSwgMjAgSmFuIDIwMjMgMTg6MTg6MjcgR01UDQpDb250ZW50LVR5cGU6IHRleHQvaHRtbA0KQ29udGVudC1MZW5ndGg6IDg4MDUNCkRhdGU6IEZyaSwgMjAgSmFuIDIwMjMgMTg6MTg6MjcgR01UDQoNCg==</ActualData>
+              <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjg4MDUtMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTANCkV4cGlyZXM6IEZyaSwgMjAgSmFuIDIwMjMgMjA6MjU6NTYgR01UDQpDb250ZW50LVR5cGU6IHRleHQvaHRtbA0KQ29udGVudC1MZW5ndGg6IDg4MDUNCkRhdGU6IEZyaSwgMjAgSmFuIDIwMjMgMjA6MjU6NTYgR01UDQoNCg==</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -154,7 +154,7 @@
         <IsExternalData>false</IsExternalData>
       </HTTPBody>
     </HTTPResponse>
-    <HTTPTask id="62" hostname="lt-dev.pflb.ru:8080" path="/css/images/review_right.png" url="http://lt-dev.pflb.ru:8080/css/images/review_right.png" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="8272" connectionId="2244" origin="HTML" encodingType="ANSI" ordinal="1" startDateTime="2023-01-20T21:18:29.781+03:00" startTime="14685" endTime="14775" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
+    <HTTPTask id="62" hostname="lt-dev.pflb.ru:8080" path="/css/images/review_right.png" url="http://lt-dev.pflb.ru:8080/css/images/review_right.png" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="10931" connectionId="2200" origin="HTML" encodingType="ANSI" ordinal="1" startDateTime="2023-01-20T23:25:57.010+03:00" startTime="14276" endTime="14379" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Authorization" index="0">
@@ -261,7 +261,7 @@
           <HTTPHeaderEntity name="Expires" index="4">
             <HTTPDataSet>
               <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-                <ActualData>TW9uLCAzMCBKYW4gMjAyMyAxODoxODoyOCBHTVQ=</ActualData>
+                <ActualData>TW9uLCAzMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQ=</ActualData>
               </HTTPData>
             </HTTPDataSet>
             <IsExternalData>false</IsExternalData>
@@ -285,7 +285,7 @@
           <HTTPHeaderEntity name="Date" index="7">
             <HTTPDataSet>
               <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-                <ActualData>RnJpLCAyMCBKYW4gMjAyMyAxODoxODoyNyBHTVQ=</ActualData>
+                <ActualData>RnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQ=</ActualData>
               </HTTPData>
             </HTTPDataSet>
             <IsExternalData>false</IsExternalData>
@@ -293,7 +293,7 @@
           <HTTPAllHeaders>
             <HTTPDataSet>
               <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-                <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjEwNzUtMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTg2NDAwMA0KRXhwaXJlczogTW9uLCAzMCBKYW4gMjAyMyAxODoxODoyOCBHTVQNCkNvbnRlbnQtVHlwZTogaW1hZ2UvcG5nDQpDb250ZW50LUxlbmd0aDogMTA3NQ0KRGF0ZTogRnJpLCAyMCBKYW4gMjAyMyAxODoxODoyNyBHTVQNCg0K</ActualData>
+                <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjEwNzUtMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTg2NDAwMA0KRXhwaXJlczogTW9uLCAzMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQNCkNvbnRlbnQtVHlwZTogaW1hZ2UvcG5nDQpDb250ZW50LUxlbmd0aDogMTA3NQ0KRGF0ZTogRnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQNCg0K</ActualData>
               </HTTPData>
             </HTTPDataSet>
             <IsExternalData>false</IsExternalData>
@@ -309,7 +309,7 @@
         </HTTPBody>
       </HTTPResponse>
     </HTTPTask>
-    <HTTPTask id="63" hostname="lt-dev.pflb.ru:8080" path="/css/images/reviewUser.png" url="http://lt-dev.pflb.ru:8080/css/images/reviewUser.png" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="8274" connectionId="2260" origin="HTML" encodingType="ANSI" ordinal="2" startDateTime="2023-01-20T21:18:29.781+03:00" startTime="14686" endTime="14776" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
+    <HTTPTask id="63" hostname="lt-dev.pflb.ru:8080" path="/css/images/reviewUser.png" url="http://lt-dev.pflb.ru:8080/css/images/reviewUser.png" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="10933" connectionId="2216" origin="HTML" encodingType="ANSI" ordinal="2" startDateTime="2023-01-20T23:25:57.011+03:00" startTime="14277" endTime="14378" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Authorization" index="0">
@@ -416,7 +416,7 @@
           <HTTPHeaderEntity name="Expires" index="4">
             <HTTPDataSet>
               <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-                <ActualData>TW9uLCAzMCBKYW4gMjAyMyAxODoxODoyOCBHTVQ=</ActualData>
+                <ActualData>TW9uLCAzMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQ=</ActualData>
               </HTTPData>
             </HTTPDataSet>
             <IsExternalData>false</IsExternalData>
@@ -440,7 +440,7 @@
           <HTTPHeaderEntity name="Date" index="7">
             <HTTPDataSet>
               <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-                <ActualData>RnJpLCAyMCBKYW4gMjAyMyAxODoxODoyNyBHTVQ=</ActualData>
+                <ActualData>RnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQ=</ActualData>
               </HTTPData>
             </HTTPDataSet>
             <IsExternalData>false</IsExternalData>
@@ -448,7 +448,7 @@
           <HTTPAllHeaders>
             <HTTPDataSet>
               <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-                <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjE1NDItMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTg2NDAwMA0KRXhwaXJlczogTW9uLCAzMCBKYW4gMjAyMyAxODoxODoyOCBHTVQNCkNvbnRlbnQtVHlwZTogaW1hZ2UvcG5nDQpDb250ZW50LUxlbmd0aDogMTU0Mg0KRGF0ZTogRnJpLCAyMCBKYW4gMjAyMyAxODoxODoyNyBHTVQNCg0K</ActualData>
+                <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjE1NDItMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTg2NDAwMA0KRXhwaXJlczogTW9uLCAzMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQNCkNvbnRlbnQtVHlwZTogaW1hZ2UvcG5nDQpDb250ZW50LUxlbmd0aDogMTU0Mg0KRGF0ZTogRnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQNCg0K</ActualData>
               </HTTPData>
             </HTTPDataSet>
             <IsExternalData>false</IsExternalData>
@@ -464,7 +464,7 @@
         </HTTPBody>
       </HTTPResponse>
     </HTTPTask>
-    <HTTPTask id="64" hostname="lt-dev.pflb.ru:8080" path="/css/images/review_Left_disabled.png" url="http://lt-dev.pflb.ru:8080/css/images/review_Left_disabled.png" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="8275" connectionId="2268" origin="HTML" encodingType="ANSI" ordinal="3" startDateTime="2023-01-20T21:18:29.782+03:00" startTime="14686" endTime="14772" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
+    <HTTPTask id="64" hostname="lt-dev.pflb.ru:8080" path="/css/images/review_Left_disabled.png" url="http://lt-dev.pflb.ru:8080/css/images/review_Left_disabled.png" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="10934" connectionId="2224" origin="HTML" encodingType="ANSI" ordinal="3" startDateTime="2023-01-20T23:25:57.011+03:00" startTime="14277" endTime="14376" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Authorization" index="0">
@@ -571,7 +571,7 @@
           <HTTPHeaderEntity name="Expires" index="4">
             <HTTPDataSet>
               <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-                <ActualData>TW9uLCAzMCBKYW4gMjAyMyAxODoxODoyOCBHTVQ=</ActualData>
+                <ActualData>TW9uLCAzMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQ=</ActualData>
               </HTTPData>
             </HTTPDataSet>
             <IsExternalData>false</IsExternalData>
@@ -595,7 +595,7 @@
           <HTTPHeaderEntity name="Date" index="7">
             <HTTPDataSet>
               <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-                <ActualData>RnJpLCAyMCBKYW4gMjAyMyAxODoxODoyNyBHTVQ=</ActualData>
+                <ActualData>RnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQ=</ActualData>
               </HTTPData>
             </HTTPDataSet>
             <IsExternalData>false</IsExternalData>
@@ -603,7 +603,7 @@
           <HTTPAllHeaders>
             <HTTPDataSet>
               <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-                <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjEwODctMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTg2NDAwMA0KRXhwaXJlczogTW9uLCAzMCBKYW4gMjAyMyAxODoxODoyOCBHTVQNCkNvbnRlbnQtVHlwZTogaW1hZ2UvcG5nDQpDb250ZW50LUxlbmd0aDogMTA4Nw0KRGF0ZTogRnJpLCAyMCBKYW4gMjAyMyAxODoxODoyNyBHTVQNCg0K</ActualData>
+                <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjEwODctMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTg2NDAwMA0KRXhwaXJlczogTW9uLCAzMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQNCkNvbnRlbnQtVHlwZTogaW1hZ2UvcG5nDQpDb250ZW50LUxlbmd0aDogMTA4Nw0KRGF0ZTogRnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo1NiBHTVQNCg0K</ActualData>
               </HTTPData>
             </HTTPDataSet>
             <IsExternalData>false</IsExternalData>

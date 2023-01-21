@@ -3,15 +3,11 @@ Action()
 	lr_start_transaction("UC03_Buy_products");
 		web_set_sockets_option("SSL_VERSION", "AUTO");
 	
-		web_set_user("Glovindan", 
-			lr_unmask("63950723db969836f41077155f0abec7"), 
-			"advantageonlineshopping.com:443");
+		web_add_cookie("_gid=GA1.2.865475626.1670695575; DOMAIN={host}");
 	
-		web_add_cookie("_gid=GA1.2.865475626.1670695575; DOMAIN=advantageonlineshopping.com");
+		web_add_cookie("userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D; DOMAIN={host}");
 	
-		web_add_cookie("userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D; DOMAIN=advantageonlineshopping.com");
-	
-		web_add_cookie("_ga=GA1.2.1596872114.1670427346; DOMAIN=advantageonlineshopping.com");
+		web_add_cookie("_ga=GA1.2.1596872114.1670427346; DOMAIN={host}");
 	
 		web_url("advantageonlineshopping.com", 
 			"URL={host}", 

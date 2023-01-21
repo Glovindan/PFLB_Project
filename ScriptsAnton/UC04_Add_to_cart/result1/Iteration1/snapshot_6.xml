@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="6">
-  <HTTPTask id="49" hostname="lt-dev.pflb.ru:8080" path="/app/tempFiles/popularProducts.json" url="http://lt-dev.pflb.ru:8080/app/tempFiles/popularProducts.json" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="8270" connectionId="2220" origin="Primary" encodingType="ANSI" startDateTime="2023-01-20T21:18:20.662+03:00" startTime="5566" endTime="5653" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
+  <HTTPTask id="49" hostname="lt-dev.pflb.ru:8080" path="/app/tempFiles/popularProducts.json" url="http://lt-dev.pflb.ru:8080/app/tempFiles/popularProducts.json" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="10929" connectionId="2112" origin="Primary" encodingType="ANSI" startDateTime="2023-01-20T23:25:48.025+03:00" startTime="5292" endTime="5374" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Referer" index="0">
@@ -99,7 +99,7 @@
         <HTTPHeaderEntity name="Expires" index="4">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAxODoxODoxOCBHTVQ=</ActualData>
+              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo0NyBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -123,7 +123,7 @@
         <HTTPHeaderEntity name="Date" index="7">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAxODoxODoxOCBHTVQ=</ActualData>
+              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo0NyBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -131,7 +131,7 @@
         <HTTPAllHeaders>
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjIzMjMtMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTANCkV4cGlyZXM6IEZyaSwgMjAgSmFuIDIwMjMgMTg6MTg6MTggR01UDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24NCkNvbnRlbnQtTGVuZ3RoOiAyMzIzDQpEYXRlOiBGcmksIDIwIEphbiAyMDIzIDE4OjE4OjE4IEdNVA0KDQo=</ActualData>
+              <ActualData>SFRUUC8xLjEgMjAwIA0KQWNjZXB0LVJhbmdlczogYnl0ZXMNCkVUYWc6IFcvIjIzMjMtMTY0MDE2MzI5MjAwMCINCkxhc3QtTW9kaWZpZWQ6IFdlZCwgMjIgRGVjIDIwMjEgMDg6NTQ6NTIgR01UDQpDYWNoZS1Db250cm9sOiBtYXgtYWdlPTANCkV4cGlyZXM6IEZyaSwgMjAgSmFuIDIwMjMgMjA6MjU6NDcgR01UDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24NCkNvbnRlbnQtTGVuZ3RoOiAyMzIzDQpEYXRlOiBGcmksIDIwIEphbiAyMDIzIDIwOjI1OjQ3IEdNVA0KDQo=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>

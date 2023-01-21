@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\PFLB_Project\ScriptsAnton\UC01_Login
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\pflb_project\scriptsanton\uc01_login\\logfile.log
+d:\pflb_project\scriptsanton\uc01_login\\combined_UC01_Login.c
+d:\pflb_project\scriptsanton\uc01_login\\pre_cci.c

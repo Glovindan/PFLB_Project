@@ -17,13 +17,31 @@
     <FileEntry Name="user.dat" Filter="2" />
     <FileEntry Name="combined_UC02_View_products.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="205333722440.idx" Filter="1" />
+    <FileEntry Name="20533372244_0Aq.693.idx" Filter="1" />
+    <FileEntry Name="20533372244_AZN.835.idx" Filter="1" />
+    <FileEntry Name="20533372244_CXi.81.idx" Filter="1" />
+    <FileEntry Name="20533372244_HPo.835.idx" Filter="1" />
+    <FileEntry Name="89074947440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvZZ9.735.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="UC02_View_products.c.pickle" Filter="1" />
+    <FileEntry Name="UC02_View_products.ci" Filter="1" />
+    <FileEntry Name="UC02_View_products.prb" Filter="1" />
     <FileEntry Name="UC02_View_products.prm.bak" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>

@@ -1,0 +1,13 @@
+POST /order/api/v1/carts/312535413/product/17/color/C3C3C3?quantity=1 HTTP/1.1
+Authorization: Basic R2xvd2luZGFuOkdsb3dpbmRhbjEyMw==
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: no-cache
+Referer: http://lt-dev.pflb.ru:8080/
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: lt-dev.pflb.ru:8080
+Cookie: JSESSIONID=3F64719DE5D245DDB656B85B0D151DCC
+Content-Length: 42
+

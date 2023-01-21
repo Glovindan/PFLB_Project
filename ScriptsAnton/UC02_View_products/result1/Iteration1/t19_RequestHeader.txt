@@ -1,0 +1,14 @@
+POST /accountservice/ws/AccountLogoutRequest HTTP/1.1
+Authorization: Basic R2xvdmluZGFuOkdsb3ZpbmRhbjEyMw==
+Content-Type: text/xml; charset=UTF-8
+Referer: http://lt-dev.pflb.ru:8080/
+SOAPAction: com.advantage.online.store.accountserviceAccountLogoutRequest
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: lt-dev.pflb.ru:8080
+Content-Length: 432
+

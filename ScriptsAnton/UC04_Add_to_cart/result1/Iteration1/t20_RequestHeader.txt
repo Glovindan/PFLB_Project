@@ -1,4 +1,4 @@
-POST /order/api/v1/carts/209440360/product/27/color/3683D1?quantity=1 HTTP/1.1
+POST /order/api/v1/carts/209440360/product/1/color/C3C3C3?quantity=1 HTTP/1.1
 Authorization: Basic R2xvdmluZGFuOkdsb3ZpbmRhbjEyMw==
 Content-Type: application/x-www-form-urlencoded
 Cache-Control: no-cache
@@ -8,6 +8,6 @@ Accept-Encoding: gzip, deflate
 Accept: */*
 Connection: Keep-Alive
 Host: lt-dev.pflb.ru:8080
-Cookie: JSESSIONID=FB914C9E67BBCF36E43351F1DFC51404
+Cookie: JSESSIONID=7DCF57732A422D9213BF105122E184C0
 Content-Length: 42
 

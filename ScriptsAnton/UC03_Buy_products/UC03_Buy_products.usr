@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC03_Buy_products__*delimiter*__Login__*delimiter*__UC03_TR01_Login__*delimiter*__UC03_TR02_Category_select__*delimiter*__Product_select__*delimiter*__UC03_TR03_Product_select__*delimiter*__Cart_add__*delimiter*__UC03_TR04_Cart_add__*delimiter*__Cart_buy__*delimiter*__UC03_TR06_Cart_buy__*delimiter*__Logout__*delimiter*__UC03_TR07_Exit__*delimiter*__UC03_TR05_Checkout"
+Order="UC03_Buy_products__*delimiter*__Login__*delimiter*__UC03_TR01_Login__*delimiter*__UC03_TR02_Category_select__*delimiter*__Product_select__*delimiter*__UC03_TR03_Product_select__*delimiter*__Cart_add__*delimiter*__UC03_TR04_Cart_add__*delimiter*__UC03_TR05_Checkout__*delimiter*__Cart_buy__*delimiter*__UC03_TR06_Cart_buy__*delimiter*__Logout__*delimiter*__UC03_TR07_Exit"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -67,8 +67,8 @@ Product_select=
 UC03_TR03_Product_select=
 Cart_add=
 UC03_TR04_Cart_add=
+UC03_TR05_Checkout=
 Cart_buy=
 UC03_TR06_Cart_buy=
 Logout=
 UC03_TR07_Exit=
-UC03_TR05_Checkout=

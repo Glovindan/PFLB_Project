@@ -1,0 +1,28 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(291): Found resource "http://lt-dev.pflb.ru:8080/css/images/reviewUser.png" in HTML "http://lt-dev.pflb.ru:8080/app/views/product-page.html"  	[MsgId: MMSG-26659]
+Action.c(291): Found resource "http://lt-dev.pflb.ru:8080/css/images/review_Left_disabled.png" in HTML "http://lt-dev.pflb.ru:8080/app/views/product-page.html"  	[MsgId: MMSG-26659]
+Action.c(291): web_url("product-page.html") was successful, 12509 body bytes, 1075 header bytes  	[MsgId: MMSG-26386]
+Action.c(301): Notify: Transaction "UC04_TR03_Product_select" ended with a "Pass" status (Duration: 4,1563).	[MsgId: MMSG-16873]
+Action.c(302): Notify: Transaction "Product_select" ended with a "Pass" status (Duration: 4,1563).	[MsgId: MMSG-16873]
+Action.c(304): lr_think_time: 44,00 seconds.	[MsgId: MMSG-15948]
+Action.c(306): Notify: Transaction "Cart_add" started.	[MsgId: MMSG-16999]
+Action.c(307): Notify: Transaction "UC04_TR04_Cart_add" started.	[MsgId: MMSG-16999]
+Action.c(308): web_submit_data("color/colors_rand") started  	[MsgId: MMSG-26355]
+Action.c(308): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://lt-dev.pflb.ru:8080/order/api/v1/carts/209440360/product/20/color/414141?quantity=1"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(291): Found resource "http://lt-dev.pflb.ru:8080/css/images/reviewUser.png" in HTML "http://lt-dev.pflb.ru:8080/app/views/product-page.html"  	[MsgId: MMSG-26659]
+Action.c(291): Found resource "http://lt-dev.pflb.ru:8080/css/images/review_Left_disabled.png" in HTML "http://lt-dev.pflb.ru:8080/app/views/product-page.html"  	[MsgId: MMSG-26659]
+Action.c(291): web_url("product-page.html") was successful, 12509 body bytes, 1075 header bytes  	[MsgId: MMSG-26386]
+Action.c(301): Notify: Transaction "UC04_TR03_Product_select" ended with a "Pass" status (Duration: 4,2188).	[MsgId: MMSG-16873]
+Action.c(302): Notify: Transaction "Product_select" ended with a "Pass" status (Duration: 4,2188).	[MsgId: MMSG-16873]
+Action.c(304): lr_think_time: 44,00 seconds.	[MsgId: MMSG-15948]
+Action.c(306): Notify: Transaction "Cart_add" started.	[MsgId: MMSG-16999]
+Action.c(307): Notify: Transaction "UC04_TR04_Cart_add" started.	[MsgId: MMSG-16999]
+Action.c(308): web_submit_data("color/colors_rand") started  	[MsgId: MMSG-26355]
+Action.c(308): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://lt-dev.pflb.ru:8080/order/api/v1/carts/209440360/product/16/color/414141?quantity=1"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

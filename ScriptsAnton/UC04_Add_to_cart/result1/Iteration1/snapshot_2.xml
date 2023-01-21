@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="2">
-  <HTTPTask id="45" hostname="lt-dev.pflb.ru:8080" path="/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" url="http://lt-dev.pflb.ru:8080/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="8270" connectionId="2220" origin="Primary" encodingType="ANSI" startDateTime="2023-01-20T21:18:19.363+03:00" startTime="4267" endTime="4378" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
+  <HTTPTask id="45" hostname="lt-dev.pflb.ru:8080" path="/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" url="http://lt-dev.pflb.ru:8080/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" ip="77.50.236.203" port="8080" client_ip="192.168.235.50" client_port="10929" connectionId="2112" origin="Primary" encodingType="ANSI" startDateTime="2023-01-20T23:25:46.968+03:00" startTime="4234" endTime="4333" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0" responseBodySize="0">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Referer" index="0">
@@ -123,7 +123,7 @@
         <HTTPHeaderEntity name="Date" index="7">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAxODoxODoxNyBHTVQ=</ActualData>
+              <ActualData>RnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo0NiBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -131,7 +131,7 @@
         <HTTPAllHeaders>
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>SFRUUC8xLjEgMjAwIA0KRXhwaXJlczogMA0KQ2FjaGUtQ29udHJvbDogbm8tc3RvcmUNClgtQ29udGVudC1UeXBlLU9wdGlvbnM6IG5vc25pZmYNClgtWFNTLVByb3RlY3Rpb246IDE7IG1vZGU9YmxvY2sNClgtRnJhbWUtT3B0aW9uczogREVOWQ0KQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uDQpUcmFuc2Zlci1FbmNvZGluZzogY2h1bmtlZA0KRGF0ZTogRnJpLCAyMCBKYW4gMjAyMyAxODoxODoxNyBHTVQNCg0K</ActualData>
+              <ActualData>SFRUUC8xLjEgMjAwIA0KRXhwaXJlczogMA0KQ2FjaGUtQ29udHJvbDogbm8tc3RvcmUNClgtQ29udGVudC1UeXBlLU9wdGlvbnM6IG5vc25pZmYNClgtWFNTLVByb3RlY3Rpb246IDE7IG1vZGU9YmxvY2sNClgtRnJhbWUtT3B0aW9uczogREVOWQ0KQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uDQpUcmFuc2Zlci1FbmNvZGluZzogY2h1bmtlZA0KRGF0ZTogRnJpLCAyMCBKYW4gMjAyMyAyMDoyNTo0NiBHTVQNCg0K</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>

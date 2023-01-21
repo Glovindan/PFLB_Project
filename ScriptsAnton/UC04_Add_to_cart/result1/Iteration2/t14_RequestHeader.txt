@@ -1,0 +1,9 @@
+GET /catalog/api/v1/categories/attributes HTTP/1.1
+Authorization: Basic R2xvd2luZGFuOkdsb3dpbmRhbjEyMw==
+Referer: http://lt-dev.pflb.ru:8080/
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: lt-dev.pflb.ru:8080
+
