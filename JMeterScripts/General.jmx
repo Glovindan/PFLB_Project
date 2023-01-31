@@ -339,19 +339,19 @@
           </elementProp>
           <elementProp name="host" elementType="Argument">
             <stringProp name="Argument.name">host</stringProp>
-            <stringProp name="Argument.value">advantageonlineshopping.com</stringProp>
+            <stringProp name="Argument.value">lt-dev.pflb.ru</stringProp>
             <stringProp name="Argument.desc">website host (advantageonlineshopping.com default)</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="port" elementType="Argument">
             <stringProp name="Argument.name">port</stringProp>
-            <stringProp name="Argument.value">443</stringProp>
+            <stringProp name="Argument.value">8080</stringProp>
             <stringProp name="Argument.desc">website port (443 default)</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="protocol" elementType="Argument">
             <stringProp name="Argument.name">protocol</stringProp>
-            <stringProp name="Argument.value">https</stringProp>
+            <stringProp name="Argument.value">http</stringProp>
             <stringProp name="Argument.desc">website protocol (https default)</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
@@ -371,25 +371,25 @@
       <hashTree/>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="UC01_Login" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-419339132">
+          <collectionProp name="-1954337175">
             <stringProp name="49">1</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="48">0</stringProp>
-            <stringProp name="46795509">12600</stringProp>
+            <stringProp name="46853169">14400</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="1066084596">
+          <collectionProp name="-1238180597">
             <stringProp name="52">4</stringProp>
             <stringProp name="48">0</stringProp>
             <stringProp name="1515111">1800</stringProp>
-            <stringProp name="46737849">10800</stringProp>
+            <stringProp name="46795509">12600</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-1359101038">
+          <collectionProp name="470001250">
             <stringProp name="54">6</stringProp>
             <stringProp name="1515111">1800</stringProp>
             <stringProp name="46737849">10800</stringProp>
-            <stringProp name="48">0</stringProp>
+            <stringProp name="1515111">1800</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
         </collectionProp>
@@ -439,7 +439,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -461,25 +461,25 @@
       </hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="UC02_View_product" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-419339132">
+          <collectionProp name="-1954337175">
             <stringProp name="49">1</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="48">0</stringProp>
-            <stringProp name="46795509">12600</stringProp>
+            <stringProp name="46853169">14400</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-719587944">
+          <collectionProp name="1271114159">
             <stringProp name="52">4</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="1515111">1800</stringProp>
-            <stringProp name="46737849">10800</stringProp>
+            <stringProp name="46795509">12600</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-1359101038">
+          <collectionProp name="470001250">
             <stringProp name="54">6</stringProp>
             <stringProp name="1515111">1800</stringProp>
             <stringProp name="46737849">10800</stringProp>
-            <stringProp name="48">0</stringProp>
+            <stringProp name="1515111">1800</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
         </collectionProp>
@@ -529,7 +529,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -556,7 +556,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -583,7 +583,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -605,25 +605,25 @@
       </hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="UC03_Buy_product" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-419339132">
+          <collectionProp name="-1954337175">
             <stringProp name="49">1</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="48">0</stringProp>
-            <stringProp name="46795509">12600</stringProp>
+            <stringProp name="46853169">14400</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-719587944">
+          <collectionProp name="1271114159">
             <stringProp name="52">4</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="1515111">1800</stringProp>
-            <stringProp name="46737849">10800</stringProp>
+            <stringProp name="46795509">12600</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-1359101038">
+          <collectionProp name="470001250">
             <stringProp name="54">6</stringProp>
             <stringProp name="1515111">1800</stringProp>
             <stringProp name="46737849">10800</stringProp>
-            <stringProp name="48">0</stringProp>
+            <stringProp name="1515111">1800</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
         </collectionProp>
@@ -673,7 +673,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -700,7 +700,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -727,7 +727,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -754,7 +754,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -781,7 +781,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -808,7 +808,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -830,25 +830,25 @@
       </hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="UC04_Add_to_cart" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-419339132">
+          <collectionProp name="-1954337175">
             <stringProp name="49">1</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="48">0</stringProp>
-            <stringProp name="46795509">12600</stringProp>
+            <stringProp name="46853169">14400</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-719587944">
+          <collectionProp name="1271114159">
             <stringProp name="52">4</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="1515111">1800</stringProp>
-            <stringProp name="46737849">10800</stringProp>
+            <stringProp name="46795509">12600</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-1359101038">
+          <collectionProp name="470001250">
             <stringProp name="54">6</stringProp>
             <stringProp name="1515111">1800</stringProp>
             <stringProp name="46737849">10800</stringProp>
-            <stringProp name="48">0</stringProp>
+            <stringProp name="1515111">1800</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
         </collectionProp>
@@ -898,7 +898,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -925,7 +925,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -952,7 +952,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -979,7 +979,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -1001,25 +1001,25 @@
       </hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="UC05_Remove" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-419339132">
+          <collectionProp name="-1954337175">
             <stringProp name="49">1</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="48">0</stringProp>
-            <stringProp name="46795509">12600</stringProp>
+            <stringProp name="46853169">14400</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-719587944">
+          <collectionProp name="1271114159">
             <stringProp name="52">4</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="1515111">1800</stringProp>
-            <stringProp name="46737849">10800</stringProp>
+            <stringProp name="46795509">12600</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-1359101038">
+          <collectionProp name="470001250">
             <stringProp name="54">6</stringProp>
             <stringProp name="1515111">1800</stringProp>
             <stringProp name="46737849">10800</stringProp>
-            <stringProp name="48">0</stringProp>
+            <stringProp name="1515111">1800</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
         </collectionProp>
@@ -1069,7 +1069,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -1096,7 +1096,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
@@ -1130,7 +1130,7 @@
         <hashTree>
           <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
             <stringProp name="ConstantTimer.delay">2000</stringProp>
-            <stringProp name="RandomTimer.range">6000</stringProp>
+            <stringProp name="RandomTimer.range">4000</stringProp>
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
